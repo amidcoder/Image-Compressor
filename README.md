@@ -34,12 +34,14 @@ It supports both **Imagick** and **GD**, automatically selecting the best availa
 5. Get instant output links for all processed images
 
 ## Project Structure
+```
 image-compressor/
 ├── index.php
 ├── process.php
 ├── uploads/
 ├── output/
 └── README.md
+```
 
 ## License
 MIT
