@@ -21,7 +21,7 @@ It supports both **Imagick** and **GD**, automatically selecting the best availa
 ## Installation
 1. Clone the repository:
 ```bash
-   git clone https://github.com/yourusername/image-compressor.git
+   git clone https://github.com/amidcoder/image-compressor.git
 ```
 2. Make sure directories uploads/ and output/ are writable.
 3. Open index.php in your browser.
